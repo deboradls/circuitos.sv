@@ -1,4 +1,4 @@
-module regSIPO(
+module regSIPO (
     input logic clk, rst, en, din,
     output logic [3:0] dout
 );
